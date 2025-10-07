@@ -9,7 +9,11 @@ main{
     text-align: center;
     max-width: 90%;
 }
-
+button{
+    background-color: #A376A2;
+    color: #8D5F8C;
+    padding: 20px;
+}
 .img01{
     width:95%;
 }
